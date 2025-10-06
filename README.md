@@ -1,4 +1,4 @@
-CIFAR-10 Image Classifier – ECS659U Neural Networks
+# CIFAR-10 Image Classifier - ECS59U Neural Networks
 
 This repository contains a *CIFAR-10* *Image Classification project* implemented using neural networks in *Python*, developed as part of laboratory work for the ECS659U Neural Networks module at Queen Mary University of London.
 
